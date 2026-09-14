@@ -655,10 +655,5 @@ footer p::after {
     max-height: 80vh;
   }
 }
-/* Section visual enhancement */
-section {
-  background: #f3f6fb;
-  border-radius: 18px;
-  margin: 14px 0;
-}
+
 
