@@ -77,13 +77,32 @@ main {
 
 /* SECTION CARDS */
 .section-card {
-  background: #f8faff;
-  border-radius: 16px;
+  background: #ffffff;
+
+  border-radius: 14px;
+
   padding: 25px;
-  margin-bottom: 22px;
-  box-shadow: 0 6px 24px rgba(30,58,138,.08);
+
+  margin-bottom: 24px;
+
+  border: 1px solid rgba(37, 99, 235, 0.08);
+
+  box-shadow:
+    0 4px 10px rgba(15, 23, 42, 0.06),
+    0 12px 28px rgba(15, 23, 42, 0.10);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
 }
 
+.section-card:hover {
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 6px 14px rgba(15, 23, 42, 0.08),
+    0 16px 34px rgba(15, 23, 42, 0.12);
+}
 .section-card h2 {
   margin-top: 0;
   margin-bottom: 18px;
@@ -115,17 +134,30 @@ main {
 
 .service-item {
   padding: 17px;
+
   border: 1px solid #e5e7eb;
-  border-radius: 9px;
-  background: #fff;
-  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+
+  border-radius: 11px;
+
+  background: #ffffff;
+
+  box-shadow:
+    0 3px 8px rgba(15, 23, 42, 0.05),
+    0 8px 18px rgba(15, 23, 42, 0.07);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .service-item:hover {
   transform: translateY(-2px);
-  border-color: #bfdbfe;
-  box-shadow: 0 6px 18px rgba(30,58,138,.08);
+
+  box-shadow:
+    0 5px 12px rgba(15, 23, 42, 0.07),
+    0 12px 24px rgba(15, 23, 42, 0.10);
 }
+
 
 .service-item h3 {
   margin: 0;
@@ -162,20 +194,33 @@ main {
   grid-template-columns: repeat(auto-fit,minmax(230px,1fr));
   gap: 15px;
 }
-
 .product-card {
   border: 1px solid #e5e7eb;
-  border-radius: 10px;
+
+  border-radius: 11px;
+
   padding: 18px;
-  background: white;
-  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+
+  background: #ffffff;
+
+  box-shadow:
+    0 3px 8px rgba(15, 23, 42, 0.05),
+    0 8px 18px rgba(15, 23, 42, 0.07);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .product-card:hover {
   transform: translateY(-2px);
-  border-color: #bfdbfe;
-  box-shadow: 0 6px 18px rgba(30,58,138,.08);
+
+  box-shadow:
+    0 5px 12px rgba(15, 23, 42, 0.07),
+    0 12px 24px rgba(15, 23, 42, 0.10);
 }
+
+
 
 .product-card h3 {
   margin-top: 0;
