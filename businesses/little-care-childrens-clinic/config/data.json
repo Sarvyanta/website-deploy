@@ -1,1 +1,46 @@
 
+{
+  "business": {
+    "id": "little-care-childrens-clinic",
+    "name": "Little care Children’s Clinic",
+    "category": "Children’s Clinic / Pediatric Clinic",
+    "tagline": "Healthy Kids. Happy Families.",
+    "description": "LittleCare Children’s Clinic provides compassionate and comprehensive healthcare for newborns, infants, children, and adolescents. Our child-friendly approach focuses on timely medical care, healthy growth, development, nutrition, and preventive healthcare. We aim to make every visit comfortable and reassuring for both children and parents.",
+    "logo": "assets/logo/1000195961.png"
+  },
+  "sections": {
+    "about": true,
+    "services": true,
+    "products": false,
+    "gallery": true,
+    "contact": true
+  },
+  "contact": {
+    "phone": "7386406514",
+    "location": "Hyderabad"
+  },
+  "whatsapp": {
+    "number": "7386406514",
+    "owner": "sarvyanta"
+  },
+  "services": [
+    "🩺 Pediatric Consultation",
+    "👶 Newborn & Infant Care",
+    "💉 Vaccination & Immunization",
+    "📈 Growth & Development Monitoring",
+    "🌡️ Fever & Common Childhood Illnesses",
+    "🍎 Child Nutrition Guidance",
+    "🫁 Respiratory & Allergy Care",
+    "🍼 Breastfeeding & Infant Feeding Guidance",
+    "🩹 Nebulization & Basic Pediatric Procedures",
+    "📋 Preventive Child Health Check-ups"
+  ],
+  "products": [],
+  "gallery": [
+    "assets/gallery/1000195962.png"
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/_sarvyanta_?stkn=MXQxdGYxbXIwd3Bpbw==",
+    "facebook": ""
+  }
+}
