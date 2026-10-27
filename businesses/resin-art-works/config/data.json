@@ -1,0 +1,60 @@
+
+{
+  "business": {
+    "id": "resin-art-works",
+    "name": "Resin Art Works",
+    "category": "Handmade Crafts & Resin Art",
+    "tagline": "\"Every Piece Holds a Little Magic\"",
+    "description": "We specialize in beautiful, handcrafted resin art designed to make your special moments memorable and your spaces more beautiful.\nFrom personalized name stands and unique baby keepsakes to elegant home decor, customized gifts, keychains, and decorative accessories, every creation is crafted with care, creativity, and attention to detail.",
+    "logo": "assets/logo/1000210648.png"
+  },
+  "sections": {
+    "about": true,
+    "services": false,
+    "products": true,
+    "gallery": true,
+    "contact": true
+  },
+  "contact": {
+    "phone": "7386406514",
+    "location": "Hyderabad"
+  },
+  "whatsapp": {
+    "number": "7386406514",
+    "owner": "sarvyanta"
+  },
+  "services": [],
+  "servicesNotes": [],
+  "showServicesNotes": false,
+  "products": [
+    {
+      "name": "Personalised Name Stand",
+      "price": "",
+      "image": "assets/products/1000210442.png"
+    },
+    {
+      "name": "Baby Memories Board",
+      "price": "",
+      "image": "assets/products/1000210658.png"
+    }
+  ],
+  "productsNotes": [],
+  "showProductsNotes": false,
+  "gallery": [
+    "assets/gallery/1000210659.png",
+    "assets/gallery/1000210658.png",
+    "assets/gallery/1000210657.png",
+    "assets/gallery/1000210652.png",
+    "assets/gallery/1000210642.png",
+    "assets/gallery/1000210641.png",
+    "assets/gallery/1000210649.png",
+    "assets/gallery/1000210650.png",
+    "assets/gallery/1000210656.png",
+    "assets/gallery/1000210442.png"
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "googleMaps": ""
+  }
+}
