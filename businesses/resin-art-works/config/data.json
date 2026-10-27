@@ -6,7 +6,7 @@
     "category": "Handmade Crafts & Resin Art",
     "tagline": "\"Every Piece Holds a Little Magic\"",
     "description": "We specialize in beautiful, handcrafted resin art designed to make your special moments memorable and your spaces more beautiful.\nFrom personalized name stands and unique baby keepsakes to elegant home decor, customized gifts, keychains, and decorative accessories, every creation is crafted with care, creativity, and attention to detail.",
-    "logo": "assets/logo/1000210648.png"
+    "logo": "assets/logo/Resinlogo.png"
   },
   "sections": {
     "about": true,
@@ -30,27 +30,26 @@
     {
       "name": "Personalised Name Stand",
       "price": "",
-      "image": "assets/products/1000210442.png"
+      "image": "assets/products/rigvedhi.png"
     },
     {
       "name": "Baby Memories Board",
       "price": "",
-      "image": "assets/products/1000210658.png"
+      "image": "assets/products/vidhmahi.png"
     }
   ],
   "productsNotes": [],
   "showProductsNotes": false,
   "gallery": [
-    "assets/gallery/1000210659.png",
-    "assets/gallery/1000210658.png",
-    "assets/gallery/1000210657.png",
-    "assets/gallery/1000210652.png",
-    "assets/gallery/1000210642.png",
-    "assets/gallery/1000210641.png",
-    "assets/gallery/1000210649.png",
-    "assets/gallery/1000210650.png",
-    "assets/gallery/1000210656.png",
-    "assets/gallery/1000210442.png"
+    "assets/gallery/Resin1.png",
+    "assets/gallery/Resin2.png",
+    "assets/gallery/Resin3.png",
+    "assets/gallery/Resin4.png",
+    "assets/gallery/Resin5.png",
+    "assets/gallery/Resin6.png",
+    "assets/gallery/Resin7.png",
+    "assets/gallery/Resin8.png",
+    "assets/gallery/Resin9.png"
   ],
   "social": {
     "instagram": "",
